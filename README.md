@@ -1,6 +1,7 @@
 # EX-05 Implement Simple Hill Climbing Algorithm
 ### Aim:
-Implement Simple Hill Climbing Algorithm and Generate a String by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mutating a Single Character at each iteration.
+Implement Simple Hill Climbing Algorithm and Generate a String by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>
+Mutating a Single Character at each iteration.
 ### Theory:
 Hill climbing is a variant of Generate and test in which feedback from test procedure is used to help the generator decide which direction to move in search space.
 Feedback is provided in terms of heuristic function.
